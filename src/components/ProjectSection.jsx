@@ -9,7 +9,7 @@ const projects = [
         image: "/projects/banner.jpg",
         tag: ["React", "Tailwindcss", "Node.js"],
         demoUrl: "#",
-        githubUrl: "#",
+        githubUrl: "https://github.com/Ananya188/ecommerce",
 
     },
     {
@@ -34,8 +34,8 @@ const projects = [
     },
     {
         id: 4,
-        title: "Anigram",
-        description: "Relpica of Instgram where only Animation can be seen and backend using Node.js ",
+        title: "Billing System",
+        description: "Billing System for a retail store to manage sales, inventory, and customer data.",
         image: "/projects/download.jpeg",
         tag: ["React", "Tailwindcss", "Node.js"],
         demoUrl: "#",
